@@ -1,4 +1,4 @@
-print("hello everyone!")
+print("hello y'all!")
 
 import numpy as np
 from matplotlib import pyplot as plt
